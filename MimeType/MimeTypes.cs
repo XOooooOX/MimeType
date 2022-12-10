@@ -4,7 +4,6 @@ namespace MimeType;
 
 public class MimeTypes
 {
-    [EditorBrowsable(EditorBrowsableState.Advanced)]
     public static MimeType _323 => new(".323", "text/h323");
     public static MimeType _3g2 => new(".3g2", "video/3gpp2");
     public static MimeType _3gp => new(".3gp", "video/3gpp");
