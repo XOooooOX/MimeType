@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>MimeType </Title>
+    <Authors>Mohamad_hosein_ghelich_khani</Authors>
+    <Description>A list of different types with extensions</Description>
+    <Copyright>The MIT License (MIT)</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>mimeType,extension,contentType</PackageTags>
+  </PropertyGroup>
+
+</Project>
