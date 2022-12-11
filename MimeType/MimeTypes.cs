@@ -1,4 +1,4 @@
-﻿namespace MimeType;
+﻿namespace MimeTypeRepo;
 
 public class MimeTypes
 {
