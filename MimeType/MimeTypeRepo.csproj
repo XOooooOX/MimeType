@@ -14,12 +14,12 @@
     <PackageProjectUrl>https://github.com/XOooooOX/MimeType</PackageProjectUrl>
     <RepositoryUrl>https://github.com/XOooooOX/MimeType</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>Update Readme</PackageReleaseNotes>
+    <PackageReleaseNotes>change namespace name</PackageReleaseNotes>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageId>MimeTypesRepo</PackageId>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
