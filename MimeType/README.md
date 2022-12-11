@@ -2,6 +2,10 @@
 
 Almost all possible mimeType are defined as properties, contentType and extension are present in these properties
 
+## NuGet
+
+https://www.nuget.org/packages/MimeTypesRepo
+
 ## Usage
 
 Install MimeType Nuget and use MimeTypes class
