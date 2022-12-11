@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>MimeType </Title>
     <Authors>Mohamad_hosein_ghelich_khani</Authors>
-    <Description>A list of different types with extensions</Description>
+    <Description>Source of different contentTypes with extensions</Description>
     <Copyright>The MIT License (MIT)</Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>mimeType,extension,contentType</PackageTags>
@@ -16,6 +16,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Basic version</PackageReleaseNotes>
     <PackageIcon>Icon.png</PackageIcon>
+    <PackageId>MimeTypesRepo</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
