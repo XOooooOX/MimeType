@@ -14,20 +14,20 @@
     <PackageProjectUrl>https://github.com/XOooooOX/MimeType</PackageProjectUrl>
     <RepositoryUrl>https://github.com/XOooooOX/MimeType</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>Basic version</PackageReleaseNotes>
+    <PackageReleaseNotes>Update Readme</PackageReleaseNotes>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageId>MimeTypesRepo</PackageId>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\README.md">
+    <None Update="Icon.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Icon.png">
+    <None Update="README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
